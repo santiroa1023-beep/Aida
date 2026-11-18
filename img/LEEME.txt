@@ -1,0 +1,2 @@
+Copia aquí la fotografía original de Aida y asegúrate de que el nombre sea exactamente Aida.jpeg.
+La página está configurada para cargar img/Aida.jpeg.
